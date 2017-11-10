@@ -45,11 +45,8 @@ main{
   margin-top: 20px;
 }
 
-#logo {
-  text-decoration: none;
-}
 
-#logo a:hover{
+#header a:hover{
   text-decoration: underline;
 }
 
