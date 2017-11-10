@@ -45,6 +45,10 @@ main{
   margin-top: 20px;
 }
 
+#logo a:hover{
+  text-decoration: underline;
+}
+
 div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
